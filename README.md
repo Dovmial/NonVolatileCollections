@@ -1,0 +1,2 @@
+# NonVolatileCollections
+Энергонезависимые коллекции
